@@ -1,4 +1,4 @@
-<!doctype html>
+<html>
 <html>
 <head>
   <title> Why I Love This Course </title>
