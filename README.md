@@ -1,7 +1,7 @@
 <html>
 <html>
 <head>
-  <title> Why I Love This Course </title>
+  <title> <h1><div> Why I Love This Course </div></h1> </title>
 </head>
 <body> .... </body>
 </hmtl>
